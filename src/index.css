@@ -218,3 +218,19 @@ footer a {
 	box-shadow: 0px 3px 20px 0px black;
 	transform: scale(1.2);
 }
+
+.has-dropcap:first-letter {
+	font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+	float: left;
+	font-size: 6rem;
+	line-height: 0.65;
+	margin: 0.1em 0.1em 0.2em 0;
+}
+
+.description {
+	width: 55%;
+    margin: 10px 0 10px 0;
+    text-align: justify;
+    color: #1c3862;
+}
+

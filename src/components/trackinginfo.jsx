@@ -1,4 +1,10 @@
 import React, { Component } from 'react'
+import Img1Path from '../images/1.jpg';
+import Img2Path from '../images/2.jpg';
+import Img3Path from '../images/3.jpg';
+import Img4Path from '../images/4.jpg';
+import Img5Path from '../images/5.jpg';
+import Img6Path from '../images/6.jpg';
 
 const trackingdata = require('../trackingdata.json');
 
@@ -11,6 +17,24 @@ export default class TrackingInfo extends Component {
     document.body.appendChild(script);
   }
 
+  randomizeImageSelection() {
+      let ran = Math.floor(Math.random() * (7 - 1)) + 1;
+      switch (ran) {
+        case 1:
+            return Img1Path;
+        case 2:
+            return Img2Path;
+        case 3:
+            return Img3Path;
+        case 4:
+            return Img4Path;
+        case 5:
+            return Img5Path;
+        case 6:
+            return Img6Path;
+      }
+  }
+
   render() {
     let blogs = trackingdata.outlines.find(d => d.name == "Power Platform");
     let info_blogs = new Array();
@@ -19,11 +43,11 @@ export default class TrackingInfo extends Component {
     let info_videos = new Array();
 
     blogs.outline.forEach(d => {
-        let ran = Math.floor(Math.random() * (7 - 1)) + 1;
+        let randImg = this.randomizeImageSelection();
 
         if (d.twitterHandle) {
             info_blogs.push(<div className="card-container">
-                <img className="round" src={d.image === "" ? "images/" + ran + ".jpg" : d.image} alt="user" />
+                <img className="round" src={d.image === "" ? randImg : d.image} alt="user" />
                 <h3>{d.title}</h3>
                 <h6>{d.name}</h6>
                 <div className="card-buttons">
@@ -40,7 +64,7 @@ export default class TrackingInfo extends Component {
         }
         else {
             info_blogs.push(<div className="card-container">
-                <img className="round" src={d.image === "" ? "images/" + ran + ".jpg" : d.image} alt="user" />
+                <img className="round" src={d.image === "" ? randImg : d.image} alt="user" />
                 <h3>{d.title}</h3>
                 <h6>{d.name}</h6>
                 <div className="card-buttons">
@@ -56,11 +80,11 @@ export default class TrackingInfo extends Component {
     });
 
     videos.outline.forEach(d => {
-        let ran = Math.floor(Math.random() * (7 - 1)) + 1;
+        let randImg = this.randomizeImageSelection();
 
         if (d.twitterHandle) {
             info_videos.push(<div className="card-container subscribe">
-                <img className="round" src={d.image === "" ? "images/" + ran + ".jpg" : d.image} alt="user" />
+                <img className="round" src={d.image === "" ? randImg : d.image} alt="user" />
                 <h3>{d.title}</h3>
                 <h6>{d.name}</h6>
                 <div className="card-buttons">
@@ -77,7 +101,7 @@ export default class TrackingInfo extends Component {
         }
         else {
             info_videos.push(<div className="card-container subscribe">
-                <img className="round" src={d.image === "" ? "images/" + ran + ".jpg" : d.image} alt="user" />
+                <img className="round" src={d.image === "" ? randImg : d.image} alt="user" />
                 <h3>{d.title}</h3>
                 <h6>{d.name}</h6>
                 <div className="card-buttons">
@@ -93,6 +117,12 @@ export default class TrackingInfo extends Component {
 
     return (
       <div className="container">
+        <div className="description">
+            <b>Power Platform Developers Weekly</b> is a newsletter that send weekly email to the subscribes with curated list of articles and videos to update developers with latest and upcoming features in #PowerPlatform.
+            This website showcases the content that is tracked by the editors of this newsletter. If you are a content creator then submit the request from the menu.
+            You can follow the content creators on Twitter or subscribe to their feed directly.
+            Do not forget to subscibe to the newsletter that will keep you updated with all the latest news in #PowerPlatform community.
+        </div>
         <a className="section-header" name="Blogs">Blogs</a>
         {info_blogs}
         <a className="section-header" name="YouTube">YouTube</a>
