@@ -171,9 +171,14 @@ footer i {
     color: red;
 }
 
+footer i.white {
+	color: white;
+}
+
 footer a {
     color: #3c97bf;
     text-decoration: none;
+	margin: 0 5px 0 0;
 }
 
 .menu-bar {
