@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ppdevweekly-trackinginfo/static/css/main.a54dfed0.chunk.css",
-    "main.js": "/ppdevweekly-trackinginfo/static/js/main.58c8457d.chunk.js",
-    "main.js.map": "/ppdevweekly-trackinginfo/static/js/main.58c8457d.chunk.js.map",
+    "main.css": "/ppdevweekly-trackinginfo/static/css/main.8e219862.chunk.css",
+    "main.js": "/ppdevweekly-trackinginfo/static/js/main.37f04b8f.chunk.js",
+    "main.js.map": "/ppdevweekly-trackinginfo/static/js/main.37f04b8f.chunk.js.map",
     "runtime-main.js": "/ppdevweekly-trackinginfo/static/js/runtime-main.720118bd.js",
     "runtime-main.js.map": "/ppdevweekly-trackinginfo/static/js/runtime-main.720118bd.js.map",
     "static/js/2.9cb7e3e5.chunk.js": "/ppdevweekly-trackinginfo/static/js/2.9cb7e3e5.chunk.js",
@@ -10,14 +10,21 @@
     "static/js/3.0b0e119d.chunk.js": "/ppdevweekly-trackinginfo/static/js/3.0b0e119d.chunk.js",
     "static/js/3.0b0e119d.chunk.js.map": "/ppdevweekly-trackinginfo/static/js/3.0b0e119d.chunk.js.map",
     "index.html": "/ppdevweekly-trackinginfo/index.html",
-    "static/css/main.a54dfed0.chunk.css.map": "/ppdevweekly-trackinginfo/static/css/main.a54dfed0.chunk.css.map",
+    "static/css/main.8e219862.chunk.css.map": "/ppdevweekly-trackinginfo/static/css/main.8e219862.chunk.css.map",
     "static/js/2.9cb7e3e5.chunk.js.LICENSE.txt": "/ppdevweekly-trackinginfo/static/js/2.9cb7e3e5.chunk.js.LICENSE.txt",
+    "static/media/1.5100d3af.jpg": "/ppdevweekly-trackinginfo/static/media/1.5100d3af.jpg",
+    "static/media/2.1e666016.jpg": "/ppdevweekly-trackinginfo/static/media/2.1e666016.jpg",
+    "static/media/3.405bd3b6.jpg": "/ppdevweekly-trackinginfo/static/media/3.405bd3b6.jpg",
+    "static/media/4.495124e9.jpg": "/ppdevweekly-trackinginfo/static/media/4.495124e9.jpg",
+    "static/media/5.c7c95193.jpg": "/ppdevweekly-trackinginfo/static/media/5.c7c95193.jpg",
+    "static/media/6.a18567a1.jpg": "/ppdevweekly-trackinginfo/static/media/6.a18567a1.jpg",
+    "static/media/hero-image.d77ebf54.png": "/ppdevweekly-trackinginfo/static/media/hero-image.d77ebf54.png",
     "static/media/logo.6ce24c58.svg": "/ppdevweekly-trackinginfo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.720118bd.js",
     "static/js/2.9cb7e3e5.chunk.js",
-    "static/css/main.a54dfed0.chunk.css",
-    "static/js/main.58c8457d.chunk.js"
+    "static/css/main.8e219862.chunk.css",
+    "static/js/main.37f04b8f.chunk.js"
   ]
 }
