@@ -388,11 +388,18 @@
                "image":"https://crmkeeper.files.wordpress.com/2019/02/thomas-e1550511766859.jpg"
             },
             {
-               "title":"LinkeD365 Home",
+               "title":"LinkeD365",
                "name": "Carl Cookson",
                "htmlUrl":"https://linked365.blog",
                "twitterHandle":"LinkeD365",
                "image":"https://i1.wp.com/linked365.blog/wp-content/uploads/2020/03/cropped-smallIcon.png"
+            },
+            {
+               "title":"PowerNimbus",
+               "name": "Eickhel Mendoza",
+               "htmlUrl":"https://powernimbus.com/",
+               "twitterHandle":"eickhel",
+               "image":"http://powernimbus.com/wp-content/uploads/2021/02/cropped-FavIcon-180x180.png"
             }
          ],
          "name":"Power Platform",
