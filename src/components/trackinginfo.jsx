@@ -117,7 +117,7 @@ export default class TrackingInfo extends Component {
 
     return (
       <div className="container">
-        <div className="description">
+        <div className="text">
             <b>Power Platform Developers Weekly</b> is a newsletter that send weekly email to the subscribes with curated list of articles and videos to update developers with latest and upcoming features in #PowerPlatform.
             This website showcases the content that is tracked by the editors of this newsletter. If you are a content creator then submit the request from the menu.
             You can follow the content creators on Twitter or subscribe to their feed directly.
@@ -127,6 +127,13 @@ export default class TrackingInfo extends Component {
         {info_blogs}
         <a className="section-header" name="YouTube">YouTube</a>
         {info_videos}
+        <div className="text">
+            <b>NOTE</b>
+            <blockquote>
+                This list is only for the content that is tracked automatically. We also track some content manually because there is not automatic feed available or few other reasons.
+            </blockquote>
+            <br /><i>This website is still in beta-mode.</i>
+        </div>
       </div>
     )
   }

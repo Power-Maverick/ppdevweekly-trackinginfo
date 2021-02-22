@@ -34,7 +34,7 @@ p {
 
 .hero-image {
     height: 100px;
-	width: -webkit-fill-available;
+	/* width: -webkit-fill-available; */
 }
 
 .container {
@@ -99,8 +99,8 @@ button.primary {
 	font-family: Montserrat, sans-serif;
 	font-weight: bolder;
 	padding: 10px 25px;
-  margin: 0 10px 0 10px;
-  cursor: pointer;
+  	margin: 0 10px 0 10px;
+  	cursor: pointer;
 }
 button.primary:hover {
   background-color: transparent;
@@ -150,8 +150,8 @@ header {
     text-align: center;
     z-index: 999;
     height: 150px;
-	display: flex;
-    flex-flow: wrap;
+	/* display: flex;
+    flex-flow: wrap; */
 }
 
 footer {
@@ -194,8 +194,8 @@ footer a {
 	align-items: center;
 	padding: 0 10px;
 	margin: 0px;
-	width: 100%;
-    overflow-x: auto;
+	/* width: 100%; */
+    /* overflow-x: auto; */
 }
 .menu-bar li {
   list-style: none;
@@ -237,7 +237,7 @@ footer a {
 	margin: 0.1em 0.1em 0.2em 0;
 }
 
-.description {
+.text {
 	width: 50%;
     margin: 20px 0 10px 0;
     text-align: justify;
