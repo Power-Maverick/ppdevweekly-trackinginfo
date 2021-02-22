@@ -7,7 +7,7 @@ export default class Header extends Component {
     return (
       <header>
         <img className="hero-image" src={heroImgPath} />
-        <div>
+        <div className="width100">
             <ul className="menu-bar">
                 <li><a href="#Blogs">Blogs</a></li>
                 <li><a href="#YouTube">Videos</a></li>

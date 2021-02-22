@@ -34,6 +34,7 @@ p {
 
 .hero-image {
     height: 100px;
+	width: -webkit-fill-available;
 }
 
 .container {
@@ -149,6 +150,8 @@ header {
     text-align: center;
     z-index: 999;
     height: 150px;
+	display: flex;
+    flex-flow: wrap;
 }
 
 footer {
@@ -187,10 +190,12 @@ footer a {
 	display: inline-flex;
 	background-color: #cce9ff;
 	-webkit-backdrop-filter: blur(10px);
-  backdrop-filter: blur(10px);  
+  	backdrop-filter: blur(10px);  
 	align-items: center;
 	padding: 0 10px;
 	margin: 0px;
+	width: 100%;
+    overflow-x: auto;
 }
 .menu-bar li {
   list-style: none;
@@ -239,3 +244,6 @@ footer a {
     color: #1c3862;
 }
 
+.width100 {
+	width: 100%;
+}
