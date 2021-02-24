@@ -400,6 +400,13 @@
                "htmlUrl":"https://powernimbus.com/",
                "twitterHandle":"eickhel",
                "image":"http://powernimbus.com/wp-content/uploads/2021/02/cropped-FavIcon-180x180.png"
+            },
+            {
+               "title":"Hart of the Midlands",
+               "name": "Mike Hartley",
+               "htmlUrl":"https://hartofthemidlands.co.uk",
+               "twitterHandle":"Hart365",
+               "image":"https://i0.wp.com/hartofthemidlands.co.uk/wp-content/uploads/2019/04/WebsiteFeaturedImage.png"
             }
          ],
          "name":"Power Platform",
