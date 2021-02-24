@@ -4,6 +4,18 @@
 	box-sizing: border-box;
 }
 
+@media only screen and (max-width: 750px) {
+  .menu-bar {
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: calc(100% - 10px);
+  }
+  .hero-image {
+	width: calc(100% - 10px);
+    height: auto;
+  }
+}
+
 body {
 	/* background-color: #28223F; */
     background-color: #FFF;
