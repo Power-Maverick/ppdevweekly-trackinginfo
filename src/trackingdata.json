@@ -407,6 +407,13 @@
                "htmlUrl":"https://hartofthemidlands.co.uk",
                "twitterHandle":"Hart365",
                "image":"https://i0.wp.com/hartofthemidlands.co.uk/wp-content/uploads/2019/04/WebsiteFeaturedImage.png"
+            },
+            {
+               "title":"Mohamed Ashiq Faleel",
+               "name": "Mohamed Ashiq Faleel",
+               "htmlUrl":"https://ashiqf.com",
+               "twitterHandle":"AshiqFaleel",
+               "image":"https://ashiqf.files.wordpress.com/2019/12/mylogo.png"
             }
          ],
          "name":"Power Platform",
