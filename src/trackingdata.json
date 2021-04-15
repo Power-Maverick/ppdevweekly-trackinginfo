@@ -414,6 +414,13 @@
                "htmlUrl":"https://ashiqf.com",
                "twitterHandle":"AshiqFaleel",
                "image":"https://ashiqf.files.wordpress.com/2019/12/mylogo.png"
+            },
+            {
+               "title":"Dancing with CRM",
+               "name": "Oleksandr Olashyn",
+               "htmlUrl":"https://www.dancingwithcrm.com/",
+               "twitterHandle":"dancingwithcrm",
+               "image":"https://www.dancingwithcrm.com/assets/img/logo_big.svg"
             }
          ],
          "name":"Power Platform",
