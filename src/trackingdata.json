@@ -421,6 +421,34 @@
                "htmlUrl":"https://www.dancingwithcrm.com/",
                "twitterHandle":"dancingwithcrm",
                "image":"https://www.dancingwithcrm.com/assets/img/logo_big.svg"
+            },
+            {
+               "title":"Danilo Capuano",
+               "name": "Danilo Capuano",
+               "htmlUrl":"https://capuanodanilo.com/",
+               "twitterHandle":"capuanodanilo",
+               "image":"https://crm365site.files.wordpress.com/2021/05/image.jpg"
+            },
+            {
+               "title":"XRM Tricks",
+               "name": "Mehdi El Amri",
+               "htmlUrl":"https://xrmtricks.com/",
+               "twitterHandle":"Meelamri1",
+               "image":"https://meelamri.files.wordpress.com/2021/02/cropped-5db8f9b0-1ec5-424d-a25b-925be115ead8_200x200.png"
+            },
+            {
+               "title":"The CRM Ninja",
+               "name": "EY Kalman",
+               "htmlUrl":"https://thecrm.ninja",
+               "twitterHandle":"thecrmninja",
+               "image":"https://i2.wp.com/thecrm.ninja/wp-content/uploads/2019/07/cropped-ninja-logo-1.jpg"
+            },
+            {
+               "title":"Venkata Subbarao Polsietty",
+               "name": "Venkata Subbarao Polsietty",
+               "htmlUrl":"https://venkatasubbaraopolisetty.com/",
+               "twitterHandle":"Venkata48681009",
+               "image":"https://s0.wp.com/i/blank.jpg"
             }
          ],
          "name":"Power Platform",
