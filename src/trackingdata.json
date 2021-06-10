@@ -448,7 +448,21 @@
                "name": "Venkata Subbarao Polsietty",
                "htmlUrl":"https://venkatasubbaraopolisetty.com/",
                "twitterHandle":"Venkata48681009",
-               "image":"https://s0.wp.com/i/blank.jpg"
+               "image":""
+            },
+            {
+               "title":"The Techie Dood",
+               "name": "Joy Kirkwood",
+               "htmlUrl":"https://thetechiedood.wordpress.com",
+               "twitterHandle":"asta966",
+               "image":""
+            },
+            {
+               "title":"The Joy of Power Apps",
+               "name": "Dineshkumar Sivakumar",
+               "htmlUrl":"https://joyofpowerapps.com",
+               "twitterHandle":"",
+               "image":"https://joyofpowerapps.files.wordpress.com/2021/01/cropped-joyofpowerappslogo_fullcolor.png"
             }
          ],
          "name":"Power Platform",
