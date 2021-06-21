@@ -463,6 +463,13 @@
                "htmlUrl":"https://joyofpowerapps.com",
                "twitterHandle":"",
                "image":"https://joyofpowerapps.files.wordpress.com/2021/01/cropped-joyofpowerappslogo_fullcolor.png"
+            },
+            {
+               "title":"Srinath Pega",
+               "name": "Srinath Pega",
+               "htmlUrl":"https://srinathpega.com/",
+               "twitterHandle":"SrinathPega",
+               "image":"https://srinathpega.files.wordpress.com/2021/04/sreeeeee.jpg"
             }
          ],
          "name":"Power Platform",
@@ -532,6 +539,13 @@
                "htmlUrl":"https://www.youtube.com/channel/UC-Wmfshrj5T9Sjg9p46CuZQ",
                "twitterHandle":"deepak_s22",
                "image":"https://yt3.ggpht.com/ytc/AAUvwnjlVbaIcpfmPaRGY-jiX_puUqXNGp5zmmkTK68H=s800-c-k-c0x00ffffff-no-rj"
+            },
+            {
+               "title":"Srinath Pega",
+               "name": "Srinath Pega",
+               "htmlUrl":"https://www.youtube.com/c/SrinathPegaCRM/",
+               "twitterHandle":"SrinathPega",
+               "image":""
             }
          ],
          "name":"YouTube",
