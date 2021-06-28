@@ -470,6 +470,13 @@
                "htmlUrl":"https://srinathpega.com/",
                "twitterHandle":"SrinathPega",
                "image":"https://srinathpega.files.wordpress.com/2021/04/sreeeeee.jpg"
+            },
+            {
+               "title":"Phil in the Data",
+               "name": "Phil Cole",
+               "htmlUrl":"http://philcole.org",
+               "twitterHandle":"EffEyeEll",
+               "image":""
             }
          ],
          "name":"Power Platform",
