@@ -477,6 +477,13 @@
                "htmlUrl":"http://philcole.org",
                "twitterHandle":"EffEyeEll",
                "image":""
+            },
+            {
+               "title":"Pragmatic Development",
+               "name": "Marius Pothmann",
+               "htmlUrl":"https://www.pragmatic-development.io/blog/",
+               "twitterHandle":"",
+               "image":"https://www.pragmatic-development.io/images/stock/max-langelott-wWQ760meyWI-unsplash.crop.jpg"
             }
          ],
          "name":"Power Platform",
