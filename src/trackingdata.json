@@ -581,6 +581,13 @@
           "htmlUrl": "https://www.youtube.com/c/MattCollinsJones",
           "twitterHandle": "D365Geek",
           "image": ""
+        },
+        {
+          "title": "Microsoft Power CAT",
+          "name": "Microsoft",
+          "htmlUrl": "https://aka.ms/powercatlive",
+          "twitterHandle": "",
+          "image": "https://yt3.ggpht.com/ytc/AKedOLTz9jBObcK1Env9MtuXNM2NTL7IgFaYeLTDYonH=s800-c-k-c0x00ffffff-no-rj"
         }
       ],
       "name": "YouTube",
