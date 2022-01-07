@@ -1,16 +1,5 @@
-import "./App.css";
-import Header from "./components/header";
-import Footer from "./components/footer";
-import TrackingInfo from "./components/trackinginfo";
+import "tailwindcss/dist/base.css";
+import "styles/globalStyles.css";
+import LandingPage from "pages/Landing.js";
 
-function App() {
-  return (
-    <div>
-      <Header></Header>
-      <TrackingInfo></TrackingInfo>
-      <Footer></Footer>
-    </div>
-  );
-}
-
-export default App;
+export default LandingPage;
