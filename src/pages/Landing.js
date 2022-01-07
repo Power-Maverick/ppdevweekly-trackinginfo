@@ -3,6 +3,7 @@ import AnimationRevealPage from "helpers/AnimationRevealPage.js";
 import tw from "twin.macro";
 import Header from "components/headers/light.js";
 import Footer from "components/footers/MiniCenteredFooter.js";
+import LeaderBoardPage from "pages/Leaderboard.js";
 import { ContentWithVerticalPadding } from "components/misc/Layouts";
 import { SectionHeading as HeadingBase } from "components/misc/Headings";
 import { SectionDescription as DescriptionBase } from "components/misc/Typography";
@@ -84,7 +85,9 @@ export default ({
         <SectionDescription>This section shows list of all vloggers that are tracked by us.</SectionDescription> */}
         <TeamCardGrid subheading={<Subheading>YouTubers</Subheading>} description="" cards={cardsVideos} />
       </SectionContainer>
-
+      <SectionContainer id="Leaderboard">
+        <LeaderBoardPage />
+      </SectionContainer>
       <Footer />
     </AnimationRevealPage>
   );

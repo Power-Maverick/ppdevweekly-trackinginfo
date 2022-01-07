@@ -81,7 +81,7 @@ export default ({ roundedHeaderButton = false, logoLink, links, className, colla
       >
         Submit your content
       </NavLink>
-      <NavLink href="/LeaderBoard">Quiz Leaderboard</NavLink>
+      <NavLink href="/#Leaderboard">Quiz Leaderboard</NavLink>
       <PrimaryLink
         css={roundedHeaderButton && tw`rounded-full`}
         href="https://www.powerplatformdevelopersweekly.com/"

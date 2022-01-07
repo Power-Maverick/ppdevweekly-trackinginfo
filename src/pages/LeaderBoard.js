@@ -1,8 +1,5 @@
 import LeaderGrid from "components/cards/LeaderColGrid.js";
-import Footer from "components/footers/MiniCenteredFooter.js";
-import Header from "components/headers/light.js";
 import { SectionHeading, Subheading as SubheadingBase } from "components/misc/Headings.js";
-import AnimationRevealPage from "helpers/AnimationRevealPage.js";
 import React from "react";
 import styled from "styled-components";
 import tw from "twin.macro";
@@ -43,26 +40,22 @@ export default ({
   });
 
   return (
-    <AnimationRevealPage>
-      <Header />
-      <Container>
-        <TwoColumn>
-          <ImageColumn>
-            <LeaderGrid subheading="" description="" cards={cardsBlogs} />
-          </ImageColumn>
-          <TextColumn textOnLeft={textOnLeft}>
-            <TextContent>
-              <Subheading>{subheading}</Subheading>
-              <Heading>{heading}</Heading>
-              <Description>{description}</Description>
-              <Description>
-                Last Updated: <i>{lastUpdate}</i>
-              </Description>
-            </TextContent>
-          </TextColumn>
-        </TwoColumn>
-      </Container>
-      <Footer />
-    </AnimationRevealPage>
+    <Container>
+      <TwoColumn>
+        <ImageColumn>
+          <LeaderGrid subheading="" description="" cards={cardsBlogs} />
+        </ImageColumn>
+        <TextColumn textOnLeft={textOnLeft}>
+          <TextContent>
+            <Subheading>{subheading}</Subheading>
+            <Heading>{heading}</Heading>
+            <Description>{description}</Description>
+            <Description>
+              Last Updated: <i>{lastUpdate}</i>
+            </Description>
+          </TextContent>
+        </TextColumn>
+      </TwoColumn>
+    </Container>
   );
 };
