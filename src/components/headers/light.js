@@ -81,13 +81,7 @@ export default ({ roundedHeaderButton = false, logoLink, links, className, colla
       >
         Submit your content
       </NavLink>
-      <NavLink
-        href="https://github.com/Power-Maverick/ppdevweekly-trackinginfo/issues/new?labels=data-issue&template=data-issue-report.md"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Report issue
-      </NavLink>
+      <NavLink href="/LeaderBoard">Quiz Leaderboard</NavLink>
       <PrimaryLink
         css={roundedHeaderButton && tw`rounded-full`}
         href="https://www.powerplatformdevelopersweekly.com/"
