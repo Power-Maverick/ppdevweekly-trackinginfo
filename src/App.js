@@ -11,9 +11,6 @@ export default function App() {
 
   return (
     <Switch>
-      {/* <Route path="/Leaderboard">
-        <LeaderBoardPage />
-      </Route> */}
       <Route exact path="/">
         <LandingPage />
       </Route>
