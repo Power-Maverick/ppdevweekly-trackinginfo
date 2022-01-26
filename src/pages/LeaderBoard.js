@@ -23,12 +23,12 @@ const leaderData = require("../leaderboard.json");
 const leaders = leaderData.leaders.sort(function (a, b) {
   return a.rank - b.rank;
 });
+const leaderBoardLastUpdate = leaderData.lastUpdated;
 
 export default ({
   subheading = "Leaderboard",
   heading = <>For 2022</>,
   description = "Following list of users are currently leading the quiz for year 2022.",
-  lastUpdate = "7th Jan, 2022",
   textOnLeft = true,
 }) => {
   let cardsBlogs = [];
@@ -51,7 +51,7 @@ export default ({
             <Heading>{heading}</Heading>
             <Description>{description}</Description>
             <Description>
-              Last Updated: <i>{lastUpdate}</i>
+              Last Updated: <i>{leaderBoardLastUpdate}</i>
             </Description>
           </TextContent>
         </TextColumn>
