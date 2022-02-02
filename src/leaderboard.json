@@ -1,10 +1,8 @@
 {
-  "lastUpdated": "1/25/2022",
+  "lastUpdated": "2/1/2022",
   "leaders": [
     { "leaderName": "Mehdi El Amri", "rank": 1 },
     { "leaderName": "anwsharma", "rank": 2 },
-    { "leaderName": "Daryl LaBar", "rank": 3 },
-    { "leaderName": "eroelofsen", "rank": 3 },
-    { "leaderName": "David Rivard", "rank": 3 }
+    { "leaderName": "eroelofsen", "rank": 3 }
   ]
 }
