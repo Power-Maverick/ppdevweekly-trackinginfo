@@ -24,6 +24,7 @@ const leaders = leaderData.leaders.sort(function (a, b) {
   return a.rank - b.rank;
 });
 const leaderBoardLastUpdate = leaderData.lastUpdated;
+const quizCount = leaderData.quizCount;
 
 export default ({
   subheading = "Leaderboard",
@@ -43,6 +44,7 @@ export default ({
     <Container>
       <TwoColumn>
         <ImageColumn>
+          <Description>Total Quiz: {quizCount}</Description>
           <LeaderGrid subheading="" description="" cards={cardsBlogs} />
         </ImageColumn>
         <TextColumn textOnLeft={textOnLeft}>
