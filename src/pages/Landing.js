@@ -36,16 +36,23 @@ export default ({
       imageSrc: d.image === "" ? NoImage : d.image,
       position: d.name,
       name: d.title,
-      links: [
-        {
-          url: d.htmlUrl,
-          icon: WebIcon,
-        },
-        {
-          url: d.twitterHandle,
-          icon: TwitterIcon,
-        },
-      ],
+      links: d.twitterHandle
+        ? [
+            {
+              url: d.htmlUrl,
+              icon: WebIcon,
+            },
+            {
+              url: `https://twitter.com/${d.twitterHandle}`,
+              icon: TwitterIcon,
+            },
+          ]
+        : [
+            {
+              url: d.htmlUrl,
+              icon: WebIcon,
+            },
+          ],
     });
   });
 
@@ -55,16 +62,23 @@ export default ({
       imageSrc: d.image === "" ? NoImage : d.image,
       position: d.name,
       name: d.title,
-      links: [
-        {
-          url: d.htmlUrl,
-          icon: YouTubeIcon,
-        },
-        {
-          url: d.twitterHandle,
-          icon: TwitterIcon,
-        },
-      ],
+      links: d.twitterHandle
+        ? [
+            {
+              url: d.htmlUrl,
+              icon: WebIcon,
+            },
+            {
+              url: `https://twitter.com/${d.twitterHandle}`,
+              icon: TwitterIcon,
+            },
+          ]
+        : [
+            {
+              url: d.htmlUrl,
+              icon: WebIcon,
+            },
+          ],
     });
   });
 
