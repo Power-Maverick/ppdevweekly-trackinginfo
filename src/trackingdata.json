@@ -526,6 +526,13 @@
           "htmlUrl": "https://powermelangebyshalinee.wordpress.com/",
           "twitterHandle": "PMByShalinee",
           "image": ""
+        },
+        {
+          "title": "Betim Beja",
+          "name": "Betim Beja",
+          "htmlUrl": "https://xrm.al/blog",
+          "twitterHandle": "BetimBeja",
+          "image": "https://xrm.al/assets/img/social-banner.png"
         }
       ],
       "name": "Power Platform",
@@ -616,6 +623,13 @@
           "htmlUrl": "https://aka.ms/powercatlive",
           "twitterHandle": "",
           "image": "https://yt3.ggpht.com/ytc/AKedOLTz9jBObcK1Env9MtuXNM2NTL7IgFaYeLTDYonH=s800-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "title": "Power Bi Tips",
+          "name": "Tommy Puglia",
+          "htmlUrl": "https://youtube.com/playlist?list=PLn1m_aBmgsbHr83c1P6uqaWF5PLdFzOjj",
+          "twitterHandle": "",
+          "image": "https://i.ytimg.com/vi/QF9mn5msifg/hqdefault.jpg"
         }
       ],
       "name": "YouTube",
