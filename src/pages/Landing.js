@@ -66,7 +66,7 @@ export default ({
         ? [
             {
               url: d.htmlUrl,
-              icon: WebIcon,
+              icon: YouTubeIcon,
             },
             {
               url: `https://twitter.com/${d.twitterHandle}`,
@@ -76,7 +76,7 @@ export default ({
         : [
             {
               url: d.htmlUrl,
-              icon: WebIcon,
+              icon: YouTubeIcon,
             },
           ],
     });
