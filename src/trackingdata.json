@@ -185,13 +185,6 @@
           "image": "http://stuffandtacos.azurewebsites.net/content/images/2016/10/blueprint.PNG"
         },
         {
-          "title": "Mike!'s Blog",
-          "name": "Mike",
-          "htmlUrl": "https://mikefactorial.com",
-          "twitterHandle": "MikeFactorial",
-          "image": ""
-        },
-        {
           "title": "Yawer Iqbal",
           "name": "Yawer Iqbal",
           "htmlUrl": "https://yaweriqbal.com",
@@ -260,13 +253,6 @@
           "htmlUrl": "https://poszytek.eu",
           "twitterHandle": "TomaszPoszytek",
           "image": "https://poszytek.eu/wp-content/uploads/2018/01/cropped-poszu-180x180.png"
-        },
-        {
-          "title": "Knowledge From Manish",
-          "name": "Manish Rawat",
-          "htmlUrl": "https://knowledgefrommanish.com",
-          "twitterHandle": "realmanishrawat",
-          "image": "https://i2.wp.com/knowledgefrommanish.com/wp-content/uploads/2020/04/cropped-knowledgefrommanish_icon.png"
         },
         {
           "title": "The CRM Chap",
@@ -540,6 +526,27 @@
           "htmlUrl": "https://www.bendenblanken.com/",
           "twitterHandle": "bendenblanken",
           "image": ""
+        },
+        {
+          "title": "Expiscornovus",
+          "name": "Dennis Goedegebuure",
+          "htmlUrl": "https://www.expiscornovus.com/",
+          "twitterHandle": "Expiscornovus",
+          "image": "https://live.staticflickr.com/65535/52290224974_d0b14e95f9_c_d.jpg"
+        },
+        {
+          "title": "Elizabeth's 365 Blog",
+          "name": "Elizabeth Akinfiieva",
+          "htmlUrl": "https://elizabeths365blog.com/",
+          "twitterHandle": "eliz_talent",
+          "image": "https://secureservercdn.net/160.153.138.217/t2m.421.myftpupload.com/wp-content/uploads/2022/05/cropped-Screenshot_18-e1653918037240.png"
+        },
+        {
+          "title": "I Am Man Cat",
+          "name": "Sancho Harker",
+          "htmlUrl": "https://www.iammancat.dev",
+          "twitterHandle": "iAm_ManCat",
+          "image": "https://www.iammancat.dev/wp-content/uploads/2019/08/cropped-Me-Cartooned2-180x180.jpg"
         }
       ],
       "name": "Power Platform",
@@ -643,7 +650,14 @@
           "name": "Darren Neese",
           "htmlUrl": "https://www.youtube.com/c/PowerAppsTutorial",
           "twitterHandle": "developermct",
-          "image": ""
+          "image": "https://www.youtube.com/yts/img/yt_1200-vflhSIVnY.png"
+        },
+        {
+          "title": "Dianamics PCF Lady",
+          "name": "Diana Birkelbach",
+          "htmlUrl": "https://www.youtube.com/channel/UC8RKSCS0gYPbiCzPq-km6kw",
+          "twitterHandle": "DianaBirkelbach",
+          "image": "https://yt3.ggpht.com/rkXJwBPYRIswPBgU_lEw1YEgnGOw1LkzBbbT5nwu8VGwz4N48Pm05mL3ndOfUpnp1uyMctMOag=s800-c-k-c0x00ffffff-no-rj"
         }
       ],
       "name": "YouTube",
