@@ -547,6 +547,13 @@
           "htmlUrl": "https://www.iammancat.dev",
           "twitterHandle": "iAm_ManCat",
           "image": "https://www.iammancat.dev/wp-content/uploads/2019/08/cropped-Me-Cartooned2-180x180.jpg"
+        },
+        {
+          "title": "Wawawum",
+          "name": "Benjamin Bertin",
+          "htmlUrl": "https://www.wawawum.com",
+          "twitterHandle": "",
+          "image": ""
         }
       ],
       "name": "Power Platform",
