@@ -568,6 +568,76 @@
           "htmlUrl": "https://hiredgun.tech/",
           "twitterHandle": "",
           "image": ""
+        },
+        {
+          "title": "Arun Potti",
+          "name": "Arun Potti",
+          "htmlUrl": "https://arunpotti.com",
+          "twitterHandle": "",
+          "image": ""
+        },
+        {
+          "title": "balagmadhu",
+          "name": "Balagopal Madhusoodhanan",
+          "htmlUrl": "https://dev.to/balagmadhu",
+          "twitterHandle": "",
+          "image": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png"
+        },
+        {
+          "title": "Charles Sexton",
+          "name": "Charles Sexton",
+          "htmlUrl": "https://www.charlessexton.com/",
+          "twitterHandle": "chumleesockson",
+          "image": "https://www.charlessexton.com/./favicon.png"
+        },
+        {
+          "title": "platformsofpower",
+          "name": "Craig White",
+          "htmlUrl": "https://platformsofpower.net",
+          "twitterHandle": "platformspower",
+          "image": "https://platformsofpower.net/wp-content/uploads/2023/05/PoP_New.png"
+        },
+        {
+          "title": "wyattdave",
+          "name": "David Wyatt",
+          "htmlUrl": "https://dev.to/wyattdave",
+          "twitterHandle": "wyattdavedwv",
+          "image": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png"
+        },
+        {
+          "title": "thetechiedood",
+          "name": "DINESHKUMAR",
+          "htmlUrl": "https://www.thetechiedood.wordpress.com",
+          "twitterHandle": "asta966",
+          "image": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png"
+        },
+        {
+          "title": "PowerPro",
+          "name": "Elowy Groot",
+          "htmlUrl": "https://powerpro.nl/blog/",
+          "twitterHandle": "",
+          "image": "https://powerpro.nl/wp-content/uploads/2023/02/Logo-PowerPro-horizontaal.png"
+        },
+        {
+          "title": "Josh Giles",
+          "name": "Josh Giles",
+          "htmlUrl": "https://joshlgiles.com/",
+          "twitterHandle": "",
+          "image": "https://joshlgiles.com/img/ProfileImage_hud8406f723543ee87de00608e843e6c54_12259_300x0_resize_q75_box.jpg"
+        },
+        {
+          "title": "Nati Turtledove",
+          "name": "Nati Turtledove",
+          "htmlUrl": "www.nati-turtledove.com/blog",
+          "twitterHandle": "",
+          "image": ""
+        },
+        {
+          "title": "suparnatechbasket",
+          "name": "Suparna Banerjee",
+          "htmlUrl": "https://suparnatechbasket.wordpress.com/",
+          "twitterHandle": "TechieSuparns",
+          "image": "https://suparnatechbasket.files.wordpress.com/2023/02/drawing-1.png"
         }
       ],
       "name": "Power Platform",
