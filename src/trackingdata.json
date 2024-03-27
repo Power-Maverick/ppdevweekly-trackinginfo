@@ -652,6 +652,13 @@
           "htmlUrl": "https://hackingpowerplatform.com/",
           "twitterHandle": "kire_devs_hacks",
           "image": "https://hackingpowerplatform.com/wp-content/uploads/2024/02/cropped-logo-180x180.png"
+        },
+        {
+          "title": "laurensm",
+          "name": "Laurens Martens",
+          "htmlUrl": "https://laurensm.com",
+          "twitterHandle": "",
+          "image": "https://laurensm.com/wp-content/uploads/2023/09/LaurensM_Final2_NoBG.png"
         }
       ],
       "name": "Power Platform",
