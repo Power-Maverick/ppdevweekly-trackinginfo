@@ -645,6 +645,13 @@
           "htmlUrl": "https://www.powerup.blog",
           "twitterHandle": "EricBLott",
           "image": "https://static.wixstatic.com/media/33d8fc_dc060f192dd5486d982715797fb7375a%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/33d8fc_dc060f192dd5486d982715797fb7375a%7Emv2.jpg"
+        },
+        {
+          "title": "Hacking Power Platform",
+          "name": "Erik Donker",
+          "htmlUrl": "https://hackingpowerplatform.com/",
+          "twitterHandle": "kire_devs_hacks",
+          "image": "https://hackingpowerplatform.com/wp-content/uploads/2024/02/cropped-logo-180x180.png"
         }
       ],
       "name": "Power Platform",
