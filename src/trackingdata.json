@@ -680,6 +680,13 @@
           "htmlUrl": "https://www.thepowerplatformduo.blog/",
           "twitterHandle": "",
           "image": ""
+        },
+        {
+          "title": "Victor Sanchez",
+          "name": "Victor Sanchez",
+          "htmlUrl": "https://www.victorsolaya.com/blog/",
+          "twitterHandle": "victorsolaya",
+          "image": ""
         }
       ],
       "name": "Power Platform",
