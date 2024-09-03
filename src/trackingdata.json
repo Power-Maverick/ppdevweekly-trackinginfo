@@ -687,6 +687,27 @@
           "htmlUrl": "https://www.victorsolaya.com/blog/",
           "twitterHandle": "victorsolaya",
           "image": ""
+        },
+        {
+          "title": "oneDynamics",
+          "name": "oneDynamics",
+          "htmlUrl": "https://blog.theonedynamics.com",
+          "twitterHandle": "",
+          "image": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg"
+        },
+        {
+          "title": "Piotr Gaszewski",
+          "name": "Piotr Gaszewski",
+          "htmlUrl": "https://piotrgaszewski.hashnode.dev",
+          "twitterHandle": "",
+          "image": "https://piotrgaszewski.hashnode.dev/api/og/home?og=eyJ0aXRsZSI6IlBpb3RyIEdhc3pld3NraSdzICBibG9nIiwiZG9tYWluIjoicGlvdHJnYXN6ZXdza2kuaGFzaG5vZGUuZGV2IiwiZm9sbG93ZXJzIjoxLCJwaG90byI6Imh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjgxNDU1NDY4MTYzL3Vxd0JtcHBNay5wbmciLCJhcnRpY2xlcyI6eyJ0b3RhbERvY3VtZW50cyI6OH19"
+        },
+        {
+          "title": "XRM Solutions UK",
+          "name": "Parvez Ghumra",
+          "htmlUrl": "https://www.xrmsolutionsuk.com/blog",
+          "twitterHandle": "parvezghumra",
+          "image": ""
         }
       ],
       "name": "Power Platform",
